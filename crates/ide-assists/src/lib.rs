@@ -439,8 +439,8 @@ pub(crate) mod handlers {
             proof_action::split_smaller_or_equal_to::split_smaller_or_equal_to,
             #[cfg(feature="proof-action")]
             proof_action::seq_index_inbound::seq_index_inbound,
-            #[cfg(feature="proof-action")]
-            proof_action::add_const_to_invs::add_const_to_invs,
+            //#[cfg(feature="proof-action")]
+            //proof_action::add_const_to_invs::add_const_to_invs,
         ]
     }
 }

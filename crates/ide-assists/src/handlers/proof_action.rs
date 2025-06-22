@@ -19,4 +19,4 @@ pub(crate) mod seq_index_inbound;
 pub(crate) mod split_imply_ensures;
 pub(crate) mod split_smaller_or_equal_to;
 pub(crate) mod weakest_pre_step;
-pub(crate) mod add_const_to_invs;
+// pub(crate) mod add_const_to_invs;
